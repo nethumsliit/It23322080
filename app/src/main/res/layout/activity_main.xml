@@ -71,6 +71,6 @@
         android:id="@+id/btncancel"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Cancel"
+        android:text="cancel"
         android:textSize="24sp" />
 </LinearLayout>
